@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "skillset",
+  "version": "0.1.0",
+  "description": "Curated externally distributed agent skills",
+  "repository": "https://github.com/blogle/skillset"
+}
